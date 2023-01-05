@@ -1,5 +1,5 @@
 # FGCQA
-This is the code for paper "A Full-Reference Quality Assessment Metric for Fine-Grained Compressed Images", if you find our work useful, please cite our paper as:
+This is the code for paper "A Full-Reference Quality Assessment Metric for Fine-Grained Compressed Images" & "Perceptual quality assessment for fine-grained compressed images", if you find our work useful, please cite our paper as:
 ```
 @inproceedings{zhang2021full,
   title={A Full-Reference Quality Assessment Metric for Fine-Grained Compressed Images},
@@ -9,7 +9,17 @@ This is the code for paper "A Full-Reference Quality Assessment Metric for Fine-
   year={2021},
   organization={IEEE}
 }
+
+@article{zhang2023perceptual,
+  title={Perceptual quality assessment for fine-grained compressed images},
+  author={Zhang, Zicheng and Wu, Wei and Cheng, Ying and Min, Xiongkuo and Zhai, Guangtao and others},
+  journal={Journal of Visual Communication and Image Representation},
+  volume={90},
+  pages={103696},
+  year={2023},
+  publisher={Academic Press}
+}
+
 ```
 
-# About me
-More works and code can be found on my [homepage](https://zzc-1998.github.io/).
+
