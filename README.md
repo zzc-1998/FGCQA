@@ -12,7 +12,7 @@ This is the code for paper "A Full-Reference Quality Assessment Metric for Fine-
 
 @article{zhang2023perceptual,
   title={Perceptual quality assessment for fine-grained compressed images},
-  author={Zhang, Zicheng and Wu, Wei and Cheng, Ying and Min, Xiongkuo and Zhai, Guangtao and others},
+  author={Zhang, Zicheng and Wu, Wei and Chen, Ying and Min, Xiongkuo and Zhai, Guangtao},
   journal={Journal of Visual Communication and Image Representation},
   volume={90},
   pages={103696},
